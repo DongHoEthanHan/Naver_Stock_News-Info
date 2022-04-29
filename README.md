@@ -1,1 +1,3 @@
-# Naver_Stock_News-Info
+# Please change branch to master :)
+
+# Naver stock news & stock information
